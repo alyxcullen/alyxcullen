@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently interested in housing, sustainability, and socialism.
+###- 🔭 I’m currently interested in housing, sustainability, and socialism.
 - 🌱 I’m currently studying sociology at Hunter College, Graduate Program in Social Research.
 - 📚 I'm currently reading THE SELLOUT by Paul Beatty and LE MORTE D'ARTHUR by Thomas Malory.
 - 📫 How to reach me: alyxandra.cullen15@hunter.cuny.edu
